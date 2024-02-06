@@ -50,7 +50,7 @@ Open a shell into your container via `docker exec -ti palworld-server bash`, the
 $:~/steamcmd$ FEXBash 'rconcli --config /home/steam/rcon.yaml showplayers'
 name,playeruid,steamid
 $:~/steamcmd$ FEXBash 'rconcli --config /home/steam/rcon.yaml info'
-Welcome to Pal Server[v0.1.3.0] jammsen-docker-generated-20384
+Welcome to Pal Server[v0.1.3.0] ARM64-PalServer-11575
 $:~/steamcmd$ FEXBash 'rconcli --config /home/steam/rcon.yaml save'
 Complete Save
 ```
