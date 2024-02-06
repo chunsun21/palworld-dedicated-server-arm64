@@ -1,4 +1,4 @@
-# PalWworld Arm64 Dedicated Server
+# PalWorld Arm64 Dedicated Server
 
 Runs SteamCMD and Palworld with [FEX](https://github.com/FEX-Emu/FEX) (Tested On Ubuntu 22.04 arm64 Raspberry Pi)
 
