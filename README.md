@@ -84,7 +84,7 @@ There was an error because the steamclient.so file could not be found, but by cr
 
 ## Software used
 
-- TeriyakiGod SteamCMD - SteamCMD build file for arm64
+- TeriyakiGod SteamCMD - SteamCMD docker build file for arm64
 - Supercronic - https://github.com/aptible/supercronic
 - rcon-cli - https://github.com/gorcon/rcon-cli
 - Palworld Dedicated Server (APP-ID: 2394010 - https://steamdb.info/app/2394010/config/)
