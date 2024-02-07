@@ -73,10 +73,6 @@ After that the server should send messages in a Discord-Compatible way to your w
 * Server starting
 * Server stopped
 
-## Deploy with Helm
-
-A Helm chart to deploy this container can be found at [palworld-helm](https://github.com/caleb-devops/palworld-helm).
-
 ## If you check the dlmopen error with steamclient.so
 
 It just occur when SteamCMD start. There's no problem with updating palworld server files and running palworld dedicated server.
