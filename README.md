@@ -6,7 +6,7 @@ Runs SteamCMD and Palworld with [FEX](https://github.com/FEX-Emu/FEX) (Tested On
 
 ## Getting started
 
-1. Create `game` sub-directory on the folder and run `chmod 777 game` for full permissions or use `chown -R 1000:1000 game/`.
+1. Create `game` sub-directory on the folder and run `chmod 777 game` for full permissions or use `chown -R 1001:1001 game/`.
 2. Download the [docker-compose.yml](docker-compose.yml) and [default.env](default.env) files in a folder of your choice
 3. Set up Port-Forwarding or NAT for the ports in the Docker-Compose file.
    - The default port for your server is 8211 (UDP)
