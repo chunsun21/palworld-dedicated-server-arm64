@@ -14,4 +14,4 @@ Despite these challenges, I persisted in refining the Docker setup. Drawing insp
 
 Finally, I crafted a Docker entrypoint script to orchestrate these processes, ensuring smooth deployment and operation of the PalWorld Dedicated Server on ARM64 architecture. The resulting Docker image is available on Docker Hub (https://hub.docker.com/r/charliejadek/palworld-arm64-dedicated-server), offering a streamlined deployment process for enthusiasts to host their own PalWorld servers.
 
-For detailed instructions on installation and usage, refer to the accompanying documentation (README.md) on GitHub. Feel free to explore the server hosted on my IDC at palserver.4scour.com:8211.
+For detailed instructions on installation and usage, refer to the accompanying documentation [README.md](README.md) on GitHub. Feel free to explore the server hosted on my IDC at palserver.4scour.com:8211.
