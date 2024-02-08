@@ -1,4 +1,4 @@
-##How I Built My PalWorld Dedicated Server on ARM64 Architecture
+# How I Built My PalWorld Dedicated Server on ARM64 Architecture
 
 I initially encountered stability issues running PalWorld servers on my IDC server, possibly due to resource limitations. To explore alternative hosting options, I attempted to deploy the server on various platforms, including Raspberry Pi 4 with ARM64 architecture.
 
