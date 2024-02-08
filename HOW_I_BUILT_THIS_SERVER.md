@@ -2,7 +2,7 @@
 
 I initially encountered stability issues running PalWorld servers on my IDC server, possibly due to resource limitations. To explore alternative hosting options, I attempted to deploy the server on various platforms, including Raspberry Pi 4 with ARM64 architecture.
 
-After researching ARM64-compatible solutions, I discovered the feasibility of hosting on Oracle Cloud's ARM servers, leveraging FEX-Emu to emulate x86-64 environments. This led me to a GitHub repository (https://github.com/nitrog0d/palworld-arm64) containing valuable resources for running PalWorld servers on ARM64. But this image was not working on my Pi. So, I decided to create my own system.
+After researching ARM64-compatible solutions, I discovered the feasibility of hosting on Oracle Cloud's ARM servers, leveraging FEX-Emu to emulate x86-64 environments. This led me to a GitHub repository (https://github.com/nitrog0d/palworld-arm64) containing valuable resources for running PalWorld servers on ARM64. But, this image was not working on my Pi. So, I decided to create my own system.
 
 However, attempting to deploy directly on Raspberry Pi box86/box64 proved challenging due to the need for manual compilation. Subsequently, I turned to Dockerized SteamCMD solutions tailored for ARM64, such as (https://github.com/TeriyakiGod/steamcmd-docker-arm64), which operated successfully on Ubuntu 22.04.
 
